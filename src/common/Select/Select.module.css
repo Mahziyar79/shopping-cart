@@ -1,0 +1,12 @@
+.select{
+    width: 200px;
+    margin: 10px 0;
+}
+.filter_box{
+    display: flex;
+    align-items: center;
+}
+.filter_box span{
+    display: block;
+    margin-right: 10px;
+}
